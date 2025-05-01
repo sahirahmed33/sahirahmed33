@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sahirahmed33
 - 👀 I’m interested in Web Development,UI/UX
+- I'm also interested in Data Analytics
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on projects regarding Web Development
 - 📫 You can reach me at my email-ahmedasahir114@gmail.com
